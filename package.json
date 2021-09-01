@@ -9,7 +9,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
-    "next": "^10.0.5",
+    "next": "^11.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
