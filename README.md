@@ -1,4 +1,4 @@
-# Next.js + TypeScript + Jest + ESLint
+# Next.js + TypeScript + ChakraUI + Jest + ESLint
 
 > This example shows how to configure Jest, TypeScript and ESLint to work with Nextjs
 
